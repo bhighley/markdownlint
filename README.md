@@ -7,6 +7,9 @@
 [![Coverage][coveralls-image]][coveralls-url]
 [![License][license-image]][license-url]
 
+## Build Status
+ Build Status [![Build Status](https://dev.azure.com/GH-Bell-Workshop-Test-Org/GH-BELL-TEST-1/_apis/build/status/bhighley.markdownlint?branchName=master)](https://dev.azure.com/GH-Bell-Workshop-Test-Org/GH-BELL-TEST-1/_build/latest?definitionId=6&branchName=master)
+
 ## Install
 
 ```shell
